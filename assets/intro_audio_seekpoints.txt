@@ -1,0 +1,58 @@
+# Seek points for intro_audio.wav
+# Format: HH:MM:SS.mmm or absolute sample number
+# These timestamps correspond to slide transitions in menu.c
+
+# Slide 0: "One fateful night..." (text)
+0:00:00.000
+
+# Slide 1: intro_00_00.sprite
+0:00:03.000
+
+# Slide 2: intro_01_00.sprite (fade in)
+0:00:06.500
+
+# Slide 3: intro_02_00.sprite (first showing)
+0:00:09.500
+
+# Slide 4: intro_03_00.sprite
+0:00:11.500
+
+# Slide 5: intro_02_00.sprite (second showing)
+0:00:12.200
+
+# Slide 6: intro_04_00.sprite (fade out)
+0:00:13.500
+
+# Slide 7: intro_05_00.sprite (fade in)
+0:00:16.500
+
+# Slide 8: intro_06_00.sprite
+0:00:18.500
+
+# Slide 9: intro_07_00.sprite (multipanel) - Panel 0
+0:00:20.000
+
+# Slide 9: Panel 1
+0:00:22.500
+
+# Slide 9: Panel 2
+0:00:23.250
+
+# Slide 9: Panel 3
+0:00:25.250
+
+# Slide 10: Empty text
+0:00:29.000
+
+# Slide 11: intro_08_00.sprite (fade in)
+0:00:31.500
+
+# Slide 12: intro_09_00.sprite (fade out)
+0:00:34.500
+
+# Slide 13: Empty text
+0:00:36.000
+
+# Slide 14: intro_10_00.sprite (final slide)
+0:00:38.500
+

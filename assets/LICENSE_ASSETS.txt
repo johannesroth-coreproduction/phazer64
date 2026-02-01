@@ -1,0 +1,86 @@
+Johannes Roth Core Production Asset License (Restricted)
+
+Copyright (c) 2026 Johannes Roth Core Production
+https://coreproduction.de
+
+This license applies to all files in the "assets/" directory of this repository,
+including (but not limited to) artwork, sprites, textures, audio, music, sound
+effects, fonts, story text, dialogue, level/content data, and other creative
+works (the "Assets"), unless a file or subfolder contains a separate license
+notice.
+
+Third-party exceptions (not covered by this license; see THIRD_PARTY_NOTICES.md):
+- assets/planets_starfield/**
+- assets/space/*.png (excluding assets/space/spacestation.png)
+Note: files in the locations above are modified in this repository by adding a red
+line every second pixel row.
+- assets/purpo/*.png
+These third-party files must be obtained directly from the original authors'
+itch.io pages and may not be reused or redistributed from this repository.
+
+Definitions
+- "Project" means the software/game in this repository.
+- "Project Build" means an application/game/ROM built from this repository.
+- "Mod" means a modification, add-on, patch, or translation intended to be used
+  only with the Project or a Project Build.
+
+- "Commercial" means any use, distribution, or making available that is intended
+  for or results in monetary compensation or other consideration, whether direct
+  or indirect. This includes (without limitation):
+  - selling, licensing, or renting,
+  - donations, tips, "pay what you want", crowdfunding, Patreon/Ko-fi memberships,
+    paid "early access", paid downloads, or paywalled access,
+  - advertising-funded downloads/pages, sponsored distribution, affiliate links,
+    or any distribution primarily intended to drive revenue,
+  - bundling with commercial products/services or using as part of a paid offering.
+
+- "Non-Commercial" means not Commercial.
+
+1) Allowed use (this Project; Non-Commercial distribution only)
+You are permitted to:
+- download the Assets, and
+- use the Assets solely to build, run, and test the Project, and
+- distribute the resulting Project Build, provided that:
+  - the Assets remain bundled only as part of the Project Build, and
+  - such distribution is strictly Non-Commercial.
+
+2) Mods and translations (allowed; Project-only; Non-Commercial distribution only)
+You are permitted to create and distribute Mods (including fan translations),
+including modified/adapted versions of the Assets, provided that:
+- the Mod is intended to be used only with the Project or a Project Build, and
+- the Mod is distributed strictly Non-Commercial, and
+- the Mod is not marketed or distributed as a general-purpose asset pack, and
+- the Mod does not grant permission to use any Assets (original or modified)
+  outside the scope of this license.
+
+3) Restrictions (no reuse outside this Project; no Commercial use)
+You are NOT permitted to:
+- use, distribute, or make available any Assets (original or modified, in whole
+  or in part) for any Commercial purpose,
+- use, distribute, or make available any Project Build or Mod that includes the
+  Assets (original or modified, in whole or in part) for any Commercial purpose,
+- use, copy, redistribute, sublicense, rent, or otherwise provide the Assets
+  (original or modified, in whole or in part) for use in other games/projects,
+  asset packs, libraries, templates, or stock collections,
+- incorporate the Assets (original or modified, in whole or in part) into other
+  games, projects, mods for other games, ports/remakes not based on this Project,
+  or other derivative works outside the Project,
+- remove or alter any copyright or attribution notices included with the Assets,
+- imply endorsement by Johannes Roth Core Production.
+
+4) Attribution
+No attribution rights are granted beyond what is required to preserve existing notices.
+If you distribute a Project Build or a Mod, you must keep any existing copyright or
+license notices that are included with the Assets.
+
+5) Termination
+Any use of the Assets outside the scope of this license automatically terminates the
+permissions granted herein.
+
+6) Warranty and liability
+THE ASSETS ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL Johannes Roth Core Production
+BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE ASSETS OR THE USE OR
+OTHER DEALINGS IN THE ASSETS.
