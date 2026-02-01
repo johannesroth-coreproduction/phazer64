@@ -6,8 +6,6 @@ _Zero time before Mom gets home!_
 [Download (N64 ROM) via GitHub Releases](../../releases)  
 [Download via Phazer 64 site](https://phazer64.com)
 
-![Phazer 64 key art](github_screenshots/phazer64.png)
-
 ## About the Game
 
 ![Phazer 64 promo cartridge](github_screenshots/promo_asset.png)
