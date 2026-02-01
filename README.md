@@ -44,13 +44,20 @@ get grounded for life?
 You can watch a full playthrough on YouTube, but I recommend playing the game
 yourself: https://www.youtube.com/watch?v=8dR-HCnk2dw
 
-![Story screen](github_screenshots/00_story_00.png) ![Combat scene](github_screenshots/01_laser_00.png)
-![Cave area](github_screenshots/02_cave_00.png)
-![Minimap screen](github_screenshots/03_minimap_00.png)
-![Planet view](github_screenshots/04_planet_00.png)
-![Crankhorn character](github_screenshots/05_crankhorn_00.png)
-![Surface area](github_screenshots/06_surface_00.png)
-![Race screen](github_screenshots/07_race_00.png)
+<table>
+  <tr>
+    <td><img src="github_screenshots/00_story_00.png" alt="Story screen" width="220"></td>
+    <td><img src="github_screenshots/01_laser_00.png" alt="Combat scene" width="220"></td>
+    <td><img src="github_screenshots/02_cave_00.png" alt="Cave area" width="220"></td>
+    <td><img src="github_screenshots/03_minimap_00.png" alt="Minimap screen" width="220"></td>
+  </tr>
+  <tr>
+    <td><img src="github_screenshots/04_planet_00.png" alt="Planet view" width="220"></td>
+    <td><img src="github_screenshots/05_crankhorn_00.png" alt="Crankhorn character" width="220"></td>
+    <td><img src="github_screenshots/06_surface_00.png" alt="Surface area" width="220"></td>
+    <td><img src="github_screenshots/07_race_00.png" alt="Race screen" width="220"></td>
+  </tr>
+</table>
 
 ## N64 Features
 
