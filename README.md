@@ -1,7 +1,6 @@
 # Phazer 64
 
-_One forbidden button. One blown-up satellite._  
-_Zero time before Mom gets home!_
+_One forbidden button. One blown-up satellite. Zero time before Mom gets home!_
 
 [Download (N64 ROM) via GitHub Releases](../../releases)  
 [Download via Phazer 64 site](https://phazer64.com)
