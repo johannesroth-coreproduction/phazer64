@@ -13,10 +13,14 @@ _One forbidden button. One blown-up satellite. Zero time before Mom gets home!_
 RPG exploration, and platforming - on Nintendo 64.
 
 When a kid presses the forbidden button, Terra's main satellite gets blown up by
-a powerful laser. **UH-OH!** (Yes, it was you.)
+a powerful laser.
+
+**UH-OH!** (Yes, it was you.)
 
 Good thing you've got a homemade UFO in the garage. You have to repair the
-damage - before your parents come home and find out. **LET'S GO!**
+damage - before your parents come home and find out.
+
+**LET'S GO!**
 
 Embark on an adventure through space. Meet new alien friends and explore strange
 planets - both above and underground.
@@ -40,8 +44,7 @@ get grounded for life?
 You can watch a full playthrough on YouTube, but I recommend playing the game
 yourself: https://www.youtube.com/watch?v=8dR-HCnk2dw
 
-![Story screen](github_screenshots/00_story_00.png)
-![Combat scene](github_screenshots/01_laser_00.png)
+![Story screen](github_screenshots/00_story_00.png) ![Combat scene](github_screenshots/01_laser_00.png)
 ![Cave area](github_screenshots/02_cave_00.png)
 ![Minimap screen](github_screenshots/03_minimap_00.png)
 ![Planet view](github_screenshots/04_planet_00.png)
@@ -101,6 +104,7 @@ The journey will continue.
 ## Attribution (appreciated)
 
 If this was worthwhile to you, a credit is appreciated - and I'd love to hear from you!
+
 "Johannes Roth Core Production — https://coreproduction.de"
 
 ## Credits
@@ -116,13 +120,13 @@ If this was worthwhile to you, a credit is appreciated - and I'd love to hear fr
 I was using the libdragon CLI in combination with ares (to run). See build_and_run.bat on how to invoke it.
 
 In the Makefile you can define:
-Master Build = no FPS, no debug functionality
-Release Build = FPS shown, no debug functionality
-Both disable = DEV build -- use flags at top of phazer.c during development
+- Master Build = no FPS, no debug functionality
+- Release Build = FPS shown, no debug functionality
+- Both disable = DEV build -- use flags at top of phazer.c during development
 
 ## Notes on Audio
 
-As I am using paid SFX assets in the finished ROM, they can't be included here. For this reason, all *.wavs are silent files.
+As I am using paid SFX assets in the finished ROM, they can't be included here. For this reason, all *.wavs are silent noise files.
 
 ## Notes on Helianthus Games Assets
 
